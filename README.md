@@ -4,7 +4,7 @@ A user-friendly online platform to manage and showcase programming books, built 
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **PHP** (with **PDO** for secure database interactions)  
 - **SQL**  
@@ -16,22 +16,23 @@ A user-friendly online platform to manage and showcase programming books, built 
 
 ---
 
-## 💡 Key Features
+## Key Features
 
-- 🖥️ View all programming books with the ability to **add them to the cart**  
-- 🛒 **Place and manage orders** via a secure and scalable backend  
-- 👤 **User authentication** (Signup, Login, Logout)  
-- ➕ **Admins can add new books**  
-- 📱 **Mobile-friendly design** and accessible UI  
-- 🌙 **Switch between Light and Dark modes** with a single click  
-- 🔐 Secure form handling with CSRF protection and data sanitization  
+-  View all programming books with the ability to **add them to the cart**  
+-  **Place and manage orders** via a secure and scalable backend  
+-  **User authentication** (Signup, Login, Logout)  
+-  **Admins can add new books**  
+-  **Mobile-friendly design** and accessible UI  
+-  **Switch between Light and Dark modes** with a single click  
+-  Secure form handling with CSRF protection and data sanitization  
 
 
 
 --
-## 🎥 Demo Video
+##  Demo Video
 
-👉 [Watch the demo on LinkedIn]([https://www.linkedin.com/feed/update/your-demo-video-link](https://www.linkedin.com/posts/ouissal-bouamar_php-mysql-bootstrap-activity-7325255275609841664-B-sF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElu8W8BemT-RtEwh3z__o785m1hlYYlwY4))  
+👉 [Watch the demo on LinkedIn](https://www.linkedin.com/posts/ouissal-bouamar_php-mysql-bootstrap-activity-7325255275609841664-B-sF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElu8W8BemT-RtEwh3z__o785m1hlYYlwY4)
+
 
 
 ---
